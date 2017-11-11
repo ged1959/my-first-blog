@@ -27,6 +27,7 @@ DEBUG = True
 
 # ALLOWED_HOSTS = []
 ALLOWED_HOSTS = ['127.0.0.1', 'python3-cloned-yoika1959.c9users.io']
+# ALLOWED_HOSTS = ['127.0.0.1', 'yoji.pythonanywhere.com']
 
 # Application definition
 
